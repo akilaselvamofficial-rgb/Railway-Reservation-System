@@ -1,8 +1,8 @@
 # Railway-Reservation-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225220008
+# Name:AKILA S
+# Date:16-06-2026
 
 
 # AIM:
@@ -40,6 +40,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
+<img width="992" height="899" alt="image" src="https://github.com/user-attachments/assets/0cb7189a-be0c-486a-8ffa-3246be9edc8b" />
 
 
 
@@ -59,6 +60,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1033" height="743" alt="image" src="https://github.com/user-attachments/assets/0ee9a33f-7c97-4daf-8d60-434bb2de0cbe" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -68,6 +70,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+<img width="1160" height="642" alt="image" src="https://github.com/user-attachments/assets/974d243b-4c05-496c-8cdd-12a025c4164d" />
 
 
 # PACKAGE DIAGRAM:
@@ -80,6 +83,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="746" height="480" alt="image" src="https://github.com/user-attachments/assets/2cd691d8-b753-43fc-9900-95626b7b8b69" />
 
 
 
@@ -98,6 +102,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="627" height="953" alt="image" src="https://github.com/user-attachments/assets/7d025dd5-032d-490b-95f6-324125b6b057" />
 
 
 
@@ -119,6 +124,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
+<img width="1086" height="576" alt="image" src="https://github.com/user-attachments/assets/fd78ddc2-11f6-4bec-bfcc-0797df1171f5" />
 
 
 
